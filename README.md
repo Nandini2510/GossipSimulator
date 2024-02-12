@@ -4,8 +4,8 @@ COP5615 - Distributed Operating Systems Principles Project 2
 The goal of this project is to determine the convergence of gossip and push sum algorithms through a simulator based on actors written in erlang on various network topologies. (full network, line, 2D grid and Imperfect3D).
 
 ## Team Members
-* **Sai Sandeep Edara** - *UF ID: 78776619*
-* **Nandani Yadav** - *UF ID: 18186343*
+* **Shashi Shirupa**
+* **Nandani Yadav**
 
 ## Contents of this file
 
